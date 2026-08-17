@@ -2,6 +2,9 @@ name: Windows Release
 
 on:
   workflow_dispatch:
+  repository_dispatch:
+    types:
+      - build-windows
   push:
     branches:
       - 'trunk'
