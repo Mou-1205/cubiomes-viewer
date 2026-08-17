@@ -18,7 +18,7 @@ env:
 
 jobs:
   build:
-    runs-on: windows-2019
+    runs-on: windows-2022
 
     steps:
       - name: Checkout repo
@@ -57,5 +57,4 @@ jobs:
         with:
           name: ${{env.PROG}}-win
           path: ${{env.SOURCE_DIR}}\${{env.PROG}}
-
 

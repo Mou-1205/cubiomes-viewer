@@ -5,7 +5,7 @@ seed-finding utilities provided by [cubiomes](https://github.com/Cubitect/cubiom
 and a map viewer for the Minecraft biomes and structure generation.
 
 The tool is designed for high performance and supports Minecraft Java Edition
-main releases up to 1.21.
+releases up to 1.21.3, including dedicated profiles for 1.21.1 and 1.21.3.
 
 
 ## Download
@@ -109,5 +109,4 @@ components are released under their respective author licenses:
 
 NOT AN OFFICIAL MINECRAFT PRODUCT.
 NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
-
 
