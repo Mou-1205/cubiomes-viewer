@@ -38,6 +38,8 @@ Nether and End dimensions, with a wide zoom range and with toggles for each
 supported structure type. The active game version and seed can be changed
 on the fly while a matching seeds list stores a working buffer of seeds for
 examination.
+Minecraft 1.21.1 and 1.21.3 are both available in the standard version selector
+without enabling experimental versions.
 
 The integrated seed finder is highly customizable, utilizing a hierarchical
 condition system that allows the user to look for features that are relative to
@@ -109,4 +111,3 @@ components are released under their respective author licenses:
 
 NOT AN OFFICIAL MINECRAFT PRODUCT.
 NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
-
